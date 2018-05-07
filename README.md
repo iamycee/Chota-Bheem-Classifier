@@ -14,6 +14,3 @@ I tried using KNN, Bagging, GridSearch-ed different paramaters, but I think due 
 2. Use ensembling 
 3. Try variations of the PCA parameters to see if it works with another set of Principal Components
 4. I might be wrong in my Data Preprocessing step as well, maybe try not grayscaling the images and try different dimensions
-
-
-# File Description
